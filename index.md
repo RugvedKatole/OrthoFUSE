@@ -20,15 +20,12 @@ layout: default
   <h3 style="color: #444; margin-bottom: 15px;">Links</h3>
   <p>
     <a href="https://arxiv.org/abs/your-paper-id" style="color: #1a73e8; text-decoration: none; margin: 0 15px;">Paper</a> |
-    <a href="https://github.com/rugvedkatole/OrthoFUSE-Code" style="color: #1a73e8; text-decoration: none; margin: 0 15px;">Code</a> |
-    <a href="https://drive.google.com/file/d/your-dataset-id/view" style="color: #1a73e8; text-decoration: none; margin: 0 15px;">Dataset</a>
+    <a href="https://github.com/RugvedKatole/OrthoFUSE" style="color: #1a73e8; text-decoration: none; margin: 0 15px;">Code</a> |
+    <a href="https://buckeyemailosu-my.sharepoint.com/:f:/g/personal/katole_2_buckeyemail_osu_edu/EonUMUu3SOFLpjpt5AT_Pr4B_gudtwljpe_ZfELGDdQuIw?e=Z5Wi9x" style="color: #1a73e8; text-decoration: none; margin: 0 15px;">Dataset</a>
   </p>
 </div>
 
-<div style="text-align: center; margin: 40px 0;">
-  <img src="{{ site.baseurl }}/assets/images/Generative_Ortho_Overview.png" alt="Ortho-Fuse Framework Overview" style="max-width: 100%; height: auto;">
-  <p style="font-style: italic; color: #666; margin-top: 10px;">Framework Overview: Ortho-Fuse optical flow-based orthomosaic generation</p>
-</div>
+
 
 <div style="margin: 40px 0;">
   <h3 style="color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px;">Abstract</h3>
@@ -56,9 +53,11 @@ layout: default
 </div>
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="{{ site.baseurl }}/assets/images/orthomosaic_comparison.png" alt="Orthomosaic Quality Comparison" style="max-width: 100%; height: auto;">
-  <p style="font-style: italic; color: #666; margin-top: 10px;">Comparative orthomosaic quality: (a) Original 50% overlap, (b) Synthetic frames only, (c) Hybrid approach</p>
+  <img src="{{ site.baseurl }}/assets/images/Generative_Ortho_Overview.png" alt="Ortho-Fuse Framework Overview" style="max-width: 100%; height: auto;">
+  <p style="font-style: italic; color: #666; margin-top: 10px;">Framework Overview: Ortho-Fuse optical flow-based orthomosaic generation</p>
 </div>
+
+
 
 <div style="margin: 40px 0;">
   <h3 style="color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px;">Results</h3>
@@ -67,14 +66,15 @@ layout: default
   </p>
 </div>
 
+
 <div style="text-align: center; margin: 40px 0;">
-  <img src="{{ site.baseurl }}/assets/images/Health_map_comparison.png" alt="NDVI Health Map Comparison" style="max-width: 100%; height: auto;">
-  <p style="font-style: italic; color: #666; margin-top: 10px;">NDVI crop health maps: (a) Original orthomosaic NDVI, (b) Synthetic orthomosaic NDVI, (c) Hybrid orthomosaic NDVI</p>
+  <img src="{{ site.baseurl }}/assets/images/orthomosaic_comparison.png" alt="Orthomosaic Quality Comparison" style="max-width: 100%; height: auto;">
+  <p style="font-style: italic; color: #666; margin-top: 10px;">Comparative orthomosaic quality: (a) Original 50% overlap, (b) Synthetic frames only, (c) Hybrid approach</p>
 </div>
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="{{ site.baseurl }}/assets/images/innovation_vs_adoption_tred.png" alt="Innovation vs Adoption Trend" style="max-width: 100%; height: auto;">
-  <p style="font-style: italic; color: #666; margin-top: 10px;">Trends in AI innovations in Digital Agriculture vs. actual farmer adoption</p>
+  <img src="{{ site.baseurl }}/assets/images/Health_map_comparison.png" alt="NDVI Health Map Comparison" style="max-width: 100%; height: auto;">
+  <p style="font-style: italic; color: #666; margin-top: 10px;">NDVI crop health maps: (a) Original orthomosaic NDVI, (b) Synthetic orthomosaic NDVI, (c) Hybrid orthomosaic NDVI</p>
 </div>
 
 <div style="margin: 40px 0;">
