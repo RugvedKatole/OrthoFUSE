@@ -2,8 +2,8 @@ title: "Ortho-Fuse: Orthomosaic Generation for Sparse High-Resolution AI-driven 
 description: >-
   An optical flow-based framework that enables reliable orthomosaic generation with reduced overlap requirements for agricultural monitoring applications.
 
-baseurl: ""
-url: ""
+baseurl: "rugvedkatole.github.io"
+url: "orthoFUSE
 
 # Use a simple, clean theme
 theme: minima
