@@ -3,7 +3,7 @@ description: ""
   
 
 baseurl: "rugvedkatole.github.io"
-url: "orthoFUSE
+url: "orthoFUSE"
 
 # Use a simple, clean theme
 theme: minima
