@@ -26,7 +26,7 @@ layout: default
 </div>
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="/assets/images/Generative_Ortho_Overview.png" alt="Ortho-Fuse Framework Overview" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/images/Generative_Ortho_Overview.png" alt="Ortho-Fuse Framework Overview" style="max-width: 100%; height: auto;">
   <p style="font-style: italic; color: #666; margin-top: 10px;">Framework Overview: Ortho-Fuse optical flow-based orthomosaic generation</p>
 </div>
 
@@ -41,7 +41,7 @@ layout: default
 </div>
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="/assets/images/RIFE_PIPELINE.drawio.png" alt="RIFE Pipeline Architecture" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/images/RIFE_PIPELINE.drawio.png" alt="RIFE Pipeline Architecture" style="max-width: 100%; height: auto;">
   <p style="font-style: italic; color: #666; margin-top: 10px;">RIFE Pipeline: Real-time Intermediate Flow Estimation for synthetic frame generation</p>
 </div>
 
@@ -56,7 +56,7 @@ layout: default
 </div>
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="/assets/images/orthomosaic_comparison.png" alt="Orthomosaic Quality Comparison" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/images/orthomosaic_comparison.png" alt="Orthomosaic Quality Comparison" style="max-width: 100%; height: auto;">
   <p style="font-style: italic; color: #666; margin-top: 10px;">Comparative orthomosaic quality: (a) Original 50% overlap, (b) Synthetic frames only, (c) Hybrid approach</p>
 </div>
 
@@ -68,12 +68,12 @@ layout: default
 </div>
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="/assets/images/Health_map_comparison.png" alt="NDVI Health Map Comparison" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/images/Health_map_comparison.png" alt="NDVI Health Map Comparison" style="max-width: 100%; height: auto;">
   <p style="font-style: italic; color: #666; margin-top: 10px;">NDVI crop health maps: (a) Original orthomosaic NDVI, (b) Synthetic orthomosaic NDVI, (c) Hybrid orthomosaic NDVI</p>
 </div>
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="/assets/images/innovation_vs_adoption_tred.png" alt="Innovation vs Adoption Trend" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/images/innovation_vs_adoption_tred.png" alt="Innovation vs Adoption Trend" style="max-width: 100%; height: auto;">
   <p style="font-style: italic; color: #666; margin-top: 10px;">Trends in AI innovations in Digital Agriculture vs. actual farmer adoption</p>
 </div>
 
