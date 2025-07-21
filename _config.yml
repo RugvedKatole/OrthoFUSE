@@ -1,7 +1,7 @@
 title: "Ortho-Fuse: Orthomosaic Generation for Sparse high resolution AI-driven health maps through optical flow estimation"
 description: >-
-  A research project focused on generating orthomosaics for sparse high resolution 
-  AI-driven health maps using optical flow estimation techniques.
+  An optical flow-based framework that enables reliable orthomosaic generation with reduced overlap requirements for agricultural monitoring applications. 
+  Reduces data collection requirements by 20% while maintaining analytical accuracy.
 
 baseurl: ""
 url: ""
