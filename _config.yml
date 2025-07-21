@@ -1,48 +1,20 @@
-title: "Ortho-Fuse"
-tagline: "Orthomosaic Generation for Sparse High-Resolution AI-driven Health Maps"
+title: "Ortho-Fuse: Orthomosaic Generation for Sparse High-Resolution AI-driven Health Maps through Optical Flow Estimation"
 description: >-
-  An optical flow-based framework that enables reliable orthomosaic generation with reduced overlap requirements for agricultural monitoring applications. 
-  Reduces data collection requirements by 20% while maintaining analytical accuracy.
+  An optical flow-based framework that enables reliable orthomosaic generation with reduced overlap requirements for agricultural monitoring applications.
 
 baseurl: ""
 url: ""
 
-# Theme
-remote_theme: pages-themes/cayman@v0.2.0
-
-# GitHub info
-github:
-  repository_url: https://github.com/rugvedkatole/OrthoFUSE-Code
-  is_project_page: true
-  owner_name: rugvedkatole
-
-# Project info
-show_downloads: true
-download_links:
-  code: "https://github.com/rugvedkatole/OrthoFUSE-Code"
-  dataset: "https://drive.google.com/file/d/your-dataset-id/view"
+# Use a simple, clean theme
+theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 markdown: kramdown
 highlighter: rouge
-
-permalink: /:categories/:year/:month/:day/:title:output_ext
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
 
 exclude:
   - .sass-cache/
@@ -51,7 +23,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor/
